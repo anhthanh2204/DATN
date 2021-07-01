@@ -1,0 +1,7 @@
+﻿@model List<ShopShoe.Models.LoaiSanPham>
+@foreach (var item in Model)
+{
+    <li class="grid">
+        <a href="@Url.Action("CungLoai", "SP", new { ID = item.ID })">@item.TenLoai</a>
+    </li>
+}

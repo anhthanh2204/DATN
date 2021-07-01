@@ -1,0 +1,332 @@
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\ShopShoe.dll.config
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\ShopShoe.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\ShopShoe.pdb
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\csc.exe
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\csc.exe.config
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\csc.rsp
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\csi.exe
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\csi.exe.config
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\csi.rsp
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.AppContext.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Collections.Immutable.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Console.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Net.Http.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Net.Sockets.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.ValueTuple.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\vbc.exe
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\vbc.exe.config
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\vbc.rsp
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe.config
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Antlr3.Runtime.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\EntityFramework.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Microsoft.Web.Infrastructure.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Newtonsoft.Json.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Helpers.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Mvc.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Optimization.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Razor.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.WebPages.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\WebGrease.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\EntityFramework.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Helpers.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Mvc.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Optimization.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.Razor.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.WebPages.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Newtonsoft.Json.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Antlr3.Runtime.pdb
+D:\Tùng\Source code\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tùng\Source code\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CoreCompileInputs.cache
+D:\Tùng\Source code\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CopyComplete
+D:\Tùng\Source code\ShopShoe\ShopShoe\obj\Debug\ShopShoe.dll
+D:\Tùng\Source code\ShopShoe\ShopShoe\obj\Debug\ShopShoe.pdb
+D:\Tùng\Source code\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csprojAssemblyReference.cache
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\ShopShoe.dll.config
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\ShopShoe.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\ShopShoe.pdb
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\csc.exe
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\csc.exe.config
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\csc.rsp
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\csi.exe
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\csi.exe.config
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\csi.rsp
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.AppContext.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Collections.Immutable.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Console.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Globalization.Calendars.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Net.Http.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Net.Sockets.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Reflection.Metadata.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.ValueTuple.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\vbc.exe
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\vbc.exe.config
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\vbc.rsp
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe.config
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Antlr3.Runtime.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\EntityFramework.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Microsoft.Web.Infrastructure.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Newtonsoft.Json.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Helpers.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Mvc.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Optimization.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Razor.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.WebPages.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\WebGrease.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\EntityFramework.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Helpers.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Mvc.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Optimization.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.Razor.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.WebPages.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Newtonsoft.Json.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Antlr3.Runtime.pdb
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csprojAssemblyReference.cache
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CoreCompileInputs.cache
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CopyComplete
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\obj\Debug\ShopShoe.dll
+D:\Outsource\PJ Final\ShopShoe\ShopShoe\obj\Debug\ShopShoe.pdb
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\ShopShoe.dll.config
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\ShopShoe.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\ShopShoe.pdb
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csc.exe
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csc.exe.config
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csc.rsp
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csi.exe
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csi.exe.config
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csi.rsp
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.AppContext.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Console.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Net.Http.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.ValueTuple.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\vbc.exe
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\vbc.exe.config
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\vbc.rsp
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Antlr3.Runtime.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Newtonsoft.Json.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Helpers.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Mvc.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Optimization.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Razor.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\WebGrease.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Helpers.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Mvc.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Optimization.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Razor.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Newtonsoft.Json.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Antlr3.Runtime.pdb
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.dll
+C:\Users\thanh\OneDrive\Documents\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.pdb
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\ShopShoe.dll.config
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\ShopShoe.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\ShopShoe.pdb
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csc.exe
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csc.exe.config
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csc.rsp
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csi.exe
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csi.exe.config
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\csi.rsp
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Managed.Core.targets
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.AppContext.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Collections.Immutable.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Console.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Globalization.Calendars.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Net.Http.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Net.Sockets.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Reflection.Metadata.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.ValueTuple.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XmlDocument.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\vbc.exe
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\vbc.exe.config
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\vbc.rsp
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\roslyn\VBCSCompiler.exe.config
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Antlr3.Runtime.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Microsoft.Web.Infrastructure.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Newtonsoft.Json.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Helpers.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Mvc.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Optimization.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Razor.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\WebGrease.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\EntityFramework.SqlServer.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Helpers.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Mvc.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Optimization.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.Razor.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Deployment.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\System.Web.WebPages.Razor.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Newtonsoft.Json.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Antlr3.Runtime.pdb
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csprojAssemblyReference.cache
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CoreCompileInputs.cache
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.csproj.CopyComplete
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.dll
+I:\DATN\Thành\FILE_20210610_142630_ShopShoe (1)\ShopShoe (1)\ShopShoe\ShopShoe\obj\Debug\ShopShoe.pdb

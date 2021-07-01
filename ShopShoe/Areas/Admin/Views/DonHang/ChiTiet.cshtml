@@ -1,0 +1,161 @@
+﻿@model List<ShopShoe.Models.CT_DH>
+
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    var donhang = (ShopShoe.Models.DonHang)ViewBag.DonHang;
+}
+
+<div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+
+            <h2>Chi tiết đơn hàng #_@donhang.ID</h2>
+            <div class="nav navbar-right panel_toolbox">
+                @*<a href="@Url.Action("Add","Author")" class="btn btn-primary"><i class="fa fa-plus"></i> Add News</a>*@
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <div class="col-md-8">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="box-header">
+
+
+                            <p>
+                                Trạng thái: @if (donhang.TrangThai == 0)
+                                {
+                                    <button class="btn btn-default btn-sm" disabled="disabled">Chưa xác nhận</button>
+                                }
+                                else if (donhang.TrangThai == 1)
+                                {
+                                    <button class="btn btn-success btn-xs" disabled="disabled">Đã xác nhận</button>
+                                }
+                                else if (donhang.TrangThai == 2)
+                                {
+                                    <button class="btn btn-warning btn-xs" disabled="disabled">Đang giao hàng</button>
+                                }
+                                else if (donhang.TrangThai == 3)
+                                {
+                                    <button class="btn btn-primary btn-xs" disabled="disabled">Đã thanh toán</button>
+                                }
+                                else if (donhang.TrangThai == 4)
+                                {
+                                    <button class="btn btn-danger btn-xs" disabled="disabled">Đơn hàng đã hủy</button>
+                                }
+
+                            </p>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table">
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <img style="width: 40px;height: 55px;" src="~/anh/xe/@item.SanPham.Anh" class="img-thumbnail" />
+
+                                            </td>
+                                            <td>
+                                                <a href="">@item.SanPham.TenSanPham</a>
+                                            </td>
+                                            <td>@String.Format("{0:0,0 Triệu}", item.GiaSanPham)  x  @item.SoLuong</td>
+                                            <td>@String.Format("{0:0,0 Triệu}", item.GiaSanPham * item.SoLuong)</td>
+                                        </tr>
+                                    }
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="box-footer">
+
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <h5>Tổng cộng:</h5>
+                                </div>
+                                <div class="col-sm-6">
+                                    <h4>
+
+                                        @String.Format("{0:0,0 Triệu}", donhang.TongTien)
+                                    </h4>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="" style="width: 100%">
+                            <a href="javascript:" style="color:#777">Thay đổi trạng thái: </a><br>
+                            <!-- Đơn hàng chưa xác nhận -->
+
+                            @Ajax.ActionLink("Xác nhận đơn hàng", "XacNhan", new { @id = donhang.ID, url = Request.Url.ToString() }, new AjaxOptions
+                       {
+
+                           OnComplete = "$('" + donhang.ID + "').Update()",
+                           HttpMethod = "Post",
+                           OnSuccess = "window.location.reload()"
+                       }, new { @class = "btn btn-default btn-sm" })
+
+
+
+
+                            @Ajax.ActionLink("Giao hàng", "XacNhan", new { @id = donhang.ID, url = Request.Url.ToString() }, new AjaxOptions
+                       {
+
+                           OnComplete = "$('" + donhang.ID + "').Update()",
+                           HttpMethod = "Post",
+                           OnSuccess = "window.location.reload()"
+                       }, new { @class = "btn btn-warning btn-sm" })
+
+
+
+                            @Ajax.ActionLink("Đã thanh toán", "XacNhan", new { @id = donhang.ID, url = Request.Url.ToString() }, new AjaxOptions
+                       {
+
+                           OnComplete = "$('" + donhang.ID + "').Update()",
+                           HttpMethod = "Post",
+                           OnSuccess = "window.location.reload()"
+                       }, new { @class = "btn btn-success btn-sm" })
+
+                            @Ajax.ActionLink("Hủy", "HuyBo", new { @id = donhang.ID, url = Request.Url.ToString() }, new AjaxOptions
+                       {
+
+                           OnComplete = "$('" + donhang.ID + "').Update()",
+                           HttpMethod = "Post",
+                           OnSuccess = "window.location.reload()"
+                       }, new { @class = "btn btn-danger btn-sm" })
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="col-md-4" style="padding-bottom: 0px;">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="box-header">
+                            <h4>Thông tin giao hàng</h4>
+                            <p class="back"><span><i class="fa fa-user" aria-hidden="true"></i></span> : @donhang.Ten_KH</p>
+                            <p class="back"><span><i class="fa fa-map-marker" aria-hidden="true"></i></span>: @donhang.DiaChiKH</p>
+                            <p class="back"><span><i class="fa fa-mobile" aria-hidden="true"></i></span>: @donhang.SDT</p>
+                            <p class="back"><span><i class="fa fa-envelope" aria-hidden="true"></i></span>: @donhang.Email</p>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Small modal -->
+    <!-- /modals -->
+</div>
+

@@ -1,0 +1,240 @@
+﻿<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>King shoe</title>
+    <link href="~/dist/web/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
+    <script src="~/dist/web/js/jquery-1.11.0.min.js"></script>
+    <!--Custom-Theme-files-->
+    <!--theme-style-->
+    <!--theme-style-->
+    <link href="~/dist/web/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--start-menu-->
+    <script src="~/dist/web/js/simpleCart.min.js"></script>
+    <link href="~/dist/web/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="~/dist/web/js/memenu.js"></script>
+    <script>$(document).ready(function () { $(".memenu").memenu(); });</script>
+    <!--dropdown-->
+    <script src="~/dist/web/js/jquery.easydropdown.js"></script>
+    
+</head>
+
+<body>
+    <!--top-header-->
+    <div class="top-header">
+        <div class="container">
+            <div class="top-header-main">
+                <div class="col-md-6 top-header-left">
+                    <div class="drop">
+
+                        <div class="box1">
+                            @if (Session["Ten"] == null)
+                            {
+                                <a style="text-decoration:none;color:#ffffff" href="@Url.Action("DangNhap", "KhachHang")">Đăng Nhập</a>
+                            }
+
+                            else
+                            {
+                                <a style="text-decoration:none;color:#ffffff" href="/">@Session["Ten"].ToString()</a> <a style="text-decoration:none;color:#ffffff" href="@Url.Action("DangXuat", "KhachHang")"> <br />Đăng Xuất</a>
+                            }
+
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="col-md-6 top-header-left">
+                    @{Html.RenderAction("SoCart", "Cart");}
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <!--top-header-->
+    <!--start-logo-->
+    <div class="logo">
+        <a href="/"><h1>KING SHOES</h1></a>
+    </div>
+    <!--start-logo-->
+    <!--bottom-header-->
+    <div class="header-bottom">
+        <div class="container">
+            <div class="header">
+                <div class="col-md-9 header-left">
+                    <div class="top-nav">
+                        <ul class="memenu skyblue">
+                            <li class="active"><a href="/">HOME</a></li>
+
+                            @{Html.RenderAction("LoaiSanPham", "TrangChu"); }
+                            <li class="grid">
+                                <a href="/">Tin Tức</a>
+                            </li>
+                            <li class="grid">
+                                <a href="@Url.Action("LienHe","KhachHang")">Liên Hệ</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+                <div class="col-md-3 header-right">
+                    @using (Html.BeginForm("TimKiem", "SP", FormMethod.Get))
+                    {
+                        <div class="search-bar">
+                            <input type="text" name="Search" placeholder="Tìm Kiếm">
+                            <input type="submit" value="">
+                        </div>
+                    }
+
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+    </div>
+    <!--bottom-header-->
+    @RenderBody()
+    <!--information-starts-->
+    <div class="information">
+        <div class="container">
+            <div class="infor-top">
+                <div class="col-md-3 infor-left">
+                    <h3>Liên hệ với chúng tôi</h3>
+                    <ul>
+                        <li><a href="#"><span class="fb"></span><h6>Facebook</h6></a></li>
+                        <li><a href="#"><span class="twit"></span><h6>Twitter</h6></a></li>
+                        <li><a href="#"><span class="google"></span><h6>Google+</h6></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 infor-left">
+                    <h3>Thông tin shop</h3>
+                    <ul>
+                        <li><a href="#"><p>Sản phẩm đặc biệt</p></a></li>
+                        <li><a href="#"><p>Sản phẩm mới</p></a></li>
+                        <li><a href="#"><p>Cửa hàng của chúng tôi</p></a></li>
+                        <li><a href="contact.html"><p>Liên hệ với chúng tôi</p></a></li>
+                        <li><a href="#"><p>Sản phẩm bán chạy</p></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 infor-left">
+                    <h3>Tài khoản của tôi</h3>
+                    <ul>
+                        <li><a href="account.html"><p>Tài khoản của tôi</p></a></li>
+                        <li><a href="#"><p>Thẻ tín dụng của tôi</p></a></li>
+                        <li><a href="#"><p>Sản phẩm trả lại</p></a></li>
+                        <li><a href="#"><p>Thông tin cá nhân </p></a></li>
+                        <li><a href="#"><p>Địa chỉ</p></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 infor-left">
+                    <h3>Thông tin cửa hàng</h3>
+                    <h4>
+                    </h4>
+                    <h5>+955 123 4567</h5>
+                    <p><a href="mailto:example@email.com">contact@example.com</a></p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <!--information-end-->
+    <!--footer-starts-->
+    <div class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div class="col-md-6 footer-left">
+                    <form>
+                        <input type="text" value="Enter Your Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Nhập gmail của bạn';}">
+                        <input type="submit" value="Đăng kí">
+                    </form>
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <!--footer-end-->
+
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/gh/vietblogdao/js/districts.min.js'></script>
+    <script>
+        //<![CDATA[
+        if (address_2 = localStorage.getItem('address_2_saved')) {
+            $('select[name="calc_shipping_district"] option').each(function () {
+                if ($(this).text() == address_2) {
+                    $(this).attr('selected', '')
+                }
+            })
+            $('input.billing_address_2').attr('value', address_2)
+        }
+        if (district = localStorage.getItem('district')) {
+            $('select[name="calc_shipping_district"]').html(district)
+            $('select[name="calc_shipping_district"]').on('change', function () {
+                var target = $(this).children('option:selected')
+                target.attr('selected', '')
+                $('select[name="calc_shipping_district"] option').not(target).removeAttr('selected')
+                address_2 = target.text()
+                $('input.billing_address_2').attr('value', address_2)
+                district = $('select[name="calc_shipping_district"]').html()
+                localStorage.setItem('district', district)
+                localStorage.setItem('address_2_saved', address_2)
+            })
+        }
+        $('select[name="calc_shipping_provinces"]').each(function () {
+            var $this = $(this),
+                stc = ''
+            c.forEach(function (i, e) {
+                e += +1
+                stc += '<option value=' + e + '>' + i + '</option>'
+                $this.html('<option value="">Tỉnh / Thành phố</option>' + stc)
+                if (address_1 = localStorage.getItem('address_1_saved')) {
+                    $('select[name="calc_shipping_provinces"] option').each(function () {
+                        if ($(this).text() == address_1) {
+                            $(this).attr('selected', '')
+                        }
+                    })
+                    $('input.billing_address_1').attr('value', address_1)
+                }
+                $this.on('change', function (i) {
+                    i = $this.children('option:selected').index() - 1
+                    var str = '',
+                        r = $this.val()
+                    if (r != '') {
+                        arr[i].forEach(function (el) {
+                            str += '<option value="' + el + '">' + el + '</option>'
+                            $('select[name="calc_shipping_district"]').html('<option value="">Quận / Huyện</option>' + str)
+                        })
+                        var address_1 = $this.children('option:selected').text()
+                        var district = $('select[name="calc_shipping_district"]').html()
+                        localStorage.setItem('address_1_saved', address_1)
+                        localStorage.setItem('district', district)
+                        $('select[name="calc_shipping_district"]').on('change', function () {
+                            var target = $(this).children('option:selected')
+                            target.attr('selected', '')
+                            $('select[name="calc_shipping_district"] option').not(target).removeAttr('selected')
+                            var address_2 = target.text()
+                            $('input.billing_address_2').attr('value', address_2)
+                            district = $('select[name="calc_shipping_district"]').html()
+                            localStorage.setItem('district', district)
+                            localStorage.setItem('address_2_saved', address_2)
+                        })
+                    } else {
+                        $('select[name="calc_shipping_district"]').html('<option value="">Quận / Huyện</option>')
+                        district = $('select[name="calc_shipping_district"]').html()
+                        localStorage.setItem('district', district)
+                        localStorage.removeItem('address_1_saved', address_1)
+                    }
+                })
+            })
+        })
+//]]></script>
+</body>
+</html>

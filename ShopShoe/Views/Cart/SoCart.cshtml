@@ -1,0 +1,10 @@
+﻿<div class="cart box_1">
+    <a href="@Url.Action("Cart","Cart")">
+        <div class="total">
+            <span class="">@String.Format("{0:0 đ}", ViewBag.TongTien)</span>
+        </div>
+        <img src="~/dist/web/images/cart-1.png" alt="" />
+    </a>
+    <p><a href="@Url.Action("Cart","Cart")" class="simpleCart_empty">@ViewBag.TongSL</a></p>
+    <div class="clearfix"> </div>
+</div>

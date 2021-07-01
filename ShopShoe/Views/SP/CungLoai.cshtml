@@ -1,0 +1,48 @@
+﻿@model List<ShopShoe.Models.SanPham>
+
+@{
+    ViewBag.Title = "CungLoai";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--start-breadcrumbs-->
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="breadcrumbs-main">
+            <ol class="breadcrumb">
+                <li><a href="/">Home</a></li>
+                <li class="active">@ViewBag.TenLoai</li>
+            </ol>
+        </div>
+    </div>
+</div>
+<!--end-breadcrumbs-->
+<!--prdt-starts-->
+<div class="prdt">
+    <div class="container">
+        <div class="prdt-top">
+            <div class="col-md-12 prdt-left">
+                <div class="product-one">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-md-3 product-left p-left" style="margin-top:20px">
+                            <div class="product-main simpleCart_shelfItem">
+                                <a href="@Url.Action("ChiTiet","SP",new { ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" style="height:150px" alt="" /></a>
+                                <div class="product-bottom">
+                                    <h3 style="height:50px">@item.TenSanPham</h3>
+                                    <p>Xuat Xu : @item.XuatSu</p>
+                                    <h4><a class="item_add" href="#"><i></i></a> <span class="item_price">@string.Format("{0:0,0 Trieu}",item.GiaSanPham)</span></h4>
+                                </div>
+                        
+                            </div>
+                        </div>
+                    }
+
+                    <div class="clearfix"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!--product-end-->

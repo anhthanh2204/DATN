@@ -1,0 +1,44 @@
+﻿@model ShopShoe.Models.LoaiSanPham
+
+@{
+    ViewBag.Title = "Sua";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Sửa loại sản phẩm</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Sua", "LoaiSanPham", FormMethod.Post))
+                {
+                    <div class="form-group">
+                        <label class="col-md-2">Tên loại</label>
+                        @Html.TextBoxFor(model => model.TenLoai, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-2">Ngày tạo</label>
+                        @Html.TextBoxFor(model => model.NgayTao, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn">Cập nhật</button>
+                    </div>
+                }
+
+                <!-- /.table-responsive -->
+
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+
+</div>
+

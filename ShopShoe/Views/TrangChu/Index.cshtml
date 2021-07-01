@@ -1,0 +1,182 @@
+﻿@model ShopShoe.ViewModels.HomeViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--banner-starts-->
+<div class="bnr" id="home">
+    <div id="top" class="callbacks_container">
+        <ul class="rslides" id="slider4">
+            <li>
+                <img src="~/anh/anh_catagory-820x304_0.png" style="min-height:450px;" />
+            </li>
+            <li>
+                <img src="~/anh/banner-sn3web-1571294680--acbihpps-1592386128--hipspcba.jpg" style="min-height:450px;" />
+            </li>
+            <li>
+                <img src="~/anh/coverwebcrep-1554432453i.png" style="min-height:450px;" />
+            </li>
+        </ul>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+<!--banner-ends-->
+<!--Slider-Starts-Here-->
+<script src="~/dist/web/js/responsiveslides.min.js"></script>
+<script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+        // Slideshow 4
+        $("#slider4").responsiveSlides({
+            auto: true,
+            pager: true,
+            nav: true,
+            speed: 500,
+            namespace: "callbacks",
+            before: function () {
+                $('.events').append("<li>before event fired.</li>");
+            },
+            after: function () {
+                $('.events').append("<li>after event fired.</li>");
+            }
+        });
+
+    });
+</script>
+<!--End-slider-script-->
+<!--product-starts-->
+<div class="product">
+    <div class="container">
+        <div class="product-top">
+            <center><h3>Sản phẩm mới</h3></center>
+            <hr />
+            <div class="product-one"  >
+                @foreach (var item in Model.ListNewProduct)
+                {
+                    <div class="col-md-3 product-left" style="margin-top:20px">
+                        <div class="product-main simpleCart_shelfItem">
+                            <a href="@Url.Action("ChiTiet","SP",new {ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" style="height:150px" alt="" /></a>
+                            <div class="product-bottom">
+                                <h3 style="height:50px">@item.TenSanPham</h3>
+                                <p>@item.XuatSu</p>
+                                <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">@String.Format("{0:0,0 đ}", item.GiaSanPham)</span></h4>
+                            </div>
+
+                        </div>
+                    </div>
+                }
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="product">
+    <div class="container">
+        <div class="product-top">
+            <center><h3>Adidas</h3></center>
+            <hr />
+            <div class="product-one">
+                @foreach (var item in Model.ListAdidas)
+                {
+                    <div class="col-md-3 product-left" style="margin-top:20px">
+                        <div class="product-main simpleCart_shelfItem" >
+                            <a href="@Url.Action("ChiTiet","SP",new {ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" style="height:150px" alt="" /></a>
+                            <div class="product-bottom">
+                                <h3 style="height:50px">@item.TenSanPham</h3>
+                                <p>@item.XuatSu</p>
+                                <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">@String.Format("{0:0,0 đ}", item.GiaSanPham)</span></h4>
+                            </div>
+
+                        </div>
+                    </div>
+                }
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="product">
+    <div class="container">
+        <div class="product-top">
+            <center><h3>Nike</h3></center>
+            <hr />
+            <div class="product-one">
+                @foreach (var item in Model.ListNikes)
+                {
+                    <div class="col-md-3 product-left" style="margin-top:20px">
+                        <div class="product-main simpleCart_shelfItem" >
+                            <a href="@Url.Action("ChiTiet","SP",new {ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" style="height:150px" alt="" /></a>
+                            <div class="product-bottom">
+                                <h3 style="height:50px">@item.TenSanPham</h3>
+                                <p>@item.XuatSu</p>
+                                <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">@String.Format("{0:0,0 đ}", item.GiaSanPham)</span></h4>
+                            </div>
+
+                        </div>
+                    </div>
+                }
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="product">
+    <div class="container">
+        <div class="product-top">
+            <center><h3>Converse</h3></center>
+            <hr />
+            <div class="product-one">
+                @foreach (var item in Model.ListConverse)
+                {
+                    <div class="col-md-3 product-left" style="margin-top:20px">
+                        <div class="product-main simpleCart_shelfItem" >
+                            <a href="@Url.Action("ChiTiet","SP",new {ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" style="height:150px" alt="" /></a>
+                            <div class="product-bottom">
+                                <h3 style="height:50px">@item.TenSanPham</h3>
+                                <p>@item.XuatSu</p>
+                                <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">@String.Format("{0:0,0 đ}", item.GiaSanPham)</span></h4>
+                            </div>
+
+                        </div>
+                    </div>
+                }
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="product">
+    <div class="container">
+        <div class="product-top">
+            <center><h3>Puma</h3></center>
+            <hr />
+            <div class="product-one">
+                @foreach (var item in Model.ListPumas)
+                {
+                    <div class="col-md-3 product-left" style="margin-top:20px">
+                        <div class="product-main simpleCart_shelfItem">
+                            <a href="@Url.Action("ChiTiet","SP",new {ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" style="height:150px" alt="" /></a>
+                            <div class="product-bottom">
+                                <h3 style="height:50px">@item.TenSanPham</h3>
+                                <p>@item.XuatSu</p>
+                                <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">@String.Format("{0:0,0 đ}", item.GiaSanPham)</span></h4>
+                            </div>
+
+                        </div>
+                    </div>
+                }
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--product-end-->

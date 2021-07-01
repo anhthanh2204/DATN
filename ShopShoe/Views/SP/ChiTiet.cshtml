@@ -1,0 +1,114 @@
+﻿@model ShopShoe.Models.SanPham
+
+@{
+    ViewBag.Title = "ChiTiet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var cungloai = (List<ShopShoe.Models.SanPham>)ViewBag.Cungloai;
+}
+
+<!--start-breadcrumbs-->
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="breadcrumbs-main">
+            <ol class="breadcrumb">
+                <li><a href="/">Home</a></li>
+                <li class="active"><a>@Model.TenSanPham</a></li>
+            </ol>
+        </div>
+    </div>
+</div>
+<!--end-breadcrumbs-->
+<!--start-single-->
+<div class="single contact">
+    <div class="container">
+        <div class="single-main">
+            <div class="col-md-12 single-main-left">
+                <div class="sngl-top">
+                    <div class="col-md-5 single-top-left">
+                        <div class="flexslider">
+                            <ul class="slides">
+                                <li data-thumb="images/s-1.jpg">
+                                    <div class="thumb-image"> <img src="~/anh/xe/@Model.Anh" data-imagezoom="true" class="img-responsive" alt="" /> </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <!-- FlexSlider -->
+                        <script src="js/imagezoom.js"></script>
+                        <script defer src="js/jquery.flexslider.js"></script>
+                        <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+
+                        <script>
+                            // Can also be used with $(document).ready()
+                            $(window).load(function () {
+                                $('.flexslider').flexslider({
+                                    animation: "slide",
+                                    controlNav: "thumbnails"
+                                });
+                            });
+                        </script>
+                    </div>
+                    <div class="col-md-7 single-top-right">
+                        <div class="single-para simpleCart_shelfItem">
+                            <h2>@Model.TenSanPham</h2>
+                            <div class="star-on">
+
+                                <div class="clearfix"> </div>
+                            </div>
+
+                            <h5 class="item_price">@String.Format("{0:0,0 đ}", Model.GiaSanPham)</h5>
+                            <p>Xuất xứ : @Model.XuatSu</p>
+                            <p>Kiểu Dáng : @Model.KieuDang</p>
+                            <a href="@Url.Action("AddCart", "Cart", new {id = Model.ID,url = Request.Url.ToString()})" class="add-cart item_add">Thêm vào giỏ hàng</a>
+
+                        </div>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+                <div class="tabs">
+                    <ul class="menu_drop">
+                        <li class="item1">
+                            <a href="#"><img src="images/arrow.png" alt="">Mô tả</a>
+                        </li>
+
+                    </ul>
+                    <p>@Model.MoTaSanPham</p><br />
+             <pre>⚡️ KINGSHOES.VN 
+                    ✓15 Ngày Đổi Hàng
+                    ✓Giao Hàng Miễn Phí
+                    ✓Thanh Toán Khi Nhận Hàng 
+                    ✓Bảo Hành Hàng Chính Hãng Trọn Đời.!!!
+                     KINGSHOES.VN "You're King In Your Way".!!!   
+                     KING'S & QUEEN'S Check in Tại KINGSHOES.VN
+                     192/2 Nguyễn Thái Bình, phường 12, quận Tân Bình, thành phố Hồ Chí Minh
+                     Đến với "KINGSHOES.VN” quý khách hàng sẽ có những sản phẩm ưng ý nhất,
+                     chất lượng phục vụ tốt và giá thành tốt nhất, cùng những “ Chương Trình Khuyến Mãi Đặc Biệt”. </pre>
+                </div>
+                <div class="latestproducts">
+                    <div class="product-one">
+                        <h3>Có thể bạn quan tâm</h3>
+                        <hr />
+                        @foreach (var item in cungloai)
+                        {
+                            <div class="col-md-3 product-left p-left" style="margin-top:20px">
+                                <div class="product-main simpleCart_shelfItem">
+                                    <a href="@Url.Action("ChiTiet","SP",new { ID=item.ID})" class="mask"><img class="img-responsive zoom-img" src="~/anh/xe/@item.Anh" alt="" style="height:150px" /></a>
+                                    <div class="product-bottom">
+                                        <h3 style="height:50px">@item.TenSanPham</h3>
+                                        <p>@item.XuatSu</p>
+                                        <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">@String.Format("{0:0,0 đ}", item.GiaSanPham)</span></h4>
+                                    </div>
+
+                                </div>
+                            </div>
+                        }
+
+
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+</div>
